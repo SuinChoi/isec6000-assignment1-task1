@@ -9,8 +9,11 @@ a. Log in to your [Google Cloud Console][googlelink].
 [googlelink]: https://cloud.google.com/cloud-console/?utm_source=google&utm_medium=cpc&utm_campaign=japac-AU-all-en-dr-BKWS-all-super-trial-PHR-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_648976003582-ADGP_Hybrid%20%7C%20BKWS%20-%20BRO%20%7C%20Txt%20~%20Management%20Tools_Cloud%20Console_google%20cloud%20console_main-KWID_43700076166781865-aud-1644542956308%3Akwd-296393718382&userloc_9070531-network_g&utm_term=KW_google%20cloud%20console&gclid=EAIaIQobChMItqrAjLucgQMV7RF7Bx39ugg8EAAYASAAEgKtWfD_BwE&gclsrc=aw.ds "Go google"
 
 b. Navigate to the Kubernetes Engine section and click "Create Cluster."
+![dev](https://github.com/SuinChoi/isec6000-assignment1-task1/assets/30892803/2b1367e5-5acf-4ec9-8786-295c8bfae02d)
 
 c. Configure your cluster settings, such as the cluster name, location, and node pool configuration.
+![dev2](https://github.com/SuinChoi/isec6000-assignment1-task1/assets/30892803/c23bbd5e-2a1f-4f14-a64d-65dffc5dae27)
+
 
 d. Choose the desired Kubernetes version.
 
