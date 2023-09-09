@@ -26,6 +26,8 @@ b. In the Google Cloud Console, navigate to the "Kubernetes Engine" > "Clusters"
 section and click the "Connect" button next to your cluster.
 
 c. Follow the instructions to authenticate kubectl with your GKE cluster.
+
+    gcloud container clusters get-credentials <cluster name> --region us-central1 --project <project name>
 - - -
 
 ### 3. Set up a private GitHub repository to store your project files.
