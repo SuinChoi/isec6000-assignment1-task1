@@ -31,6 +31,8 @@ section and click the "Connect" button next to your cluster.
 c. Follow the instructions to authenticate kubectl with your GKE cluster.
 
     gcloud container clusters get-credentials <cluster name> --region us-central1 --project <project name>
+    
+![dev3](https://github.com/SuinChoi/isec6000-assignment1-task1/assets/30892803/bc4e9f61-3471-42d3-8fed-fc641fb28bf0)
 - - -
 
 ### 3. Set up a private GitHub repository to store your project files.
